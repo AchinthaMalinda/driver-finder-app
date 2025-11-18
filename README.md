@@ -1,12 +1,16 @@
 # React Native Driver Finder App
-## A simple React Native + Expo app with Firebase Authentication and driver filtering.
+  > A simple React Native + Expo app with Firebase Authentication and driver filtering.
 
 # Run the Project
-## Install Requirements
-### Node.js
-### Expo CLI
-#### npm install -g expo-cli
-### Expo Go app(Android/iOS)
+  > Install Requirements
+    ```
+    Node.js
+    Expo CLI
+      ```
+      npm install -g expo-cli
+      ```
+    Expo Go app(Android/iOS)
+    ```
 
 > Clone the Repository
 >  > git clone https://github.com/AchinthaMalinda/driver-finder-app.git
