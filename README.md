@@ -16,7 +16,7 @@
    - npm install
 
 - Start the Project
-   - expo start
+   - npx expo start
 
 
 ## Tools Used
