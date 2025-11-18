@@ -1,0 +1,72 @@
+export const Drivers = [
+    {
+        id: 1,
+        name: "Achintha Malinda",
+        vehicleType: "Car",
+        availability: "Available",
+        phone: "0771234567"
+    },
+    {
+        id: 2,
+        name: "Yasiru Nirmal",
+        vehicleType: "Bike",
+        availability: "Unavailable",
+        phone: "0722345678",
+    },
+    {
+        id: 3,
+        name: "Shehan Fernando",
+        vehicleType: "Van",
+        availability: "Available",
+        phone: "0753456789",
+    },
+    {
+        id: 4,
+        name: "Prabath Madhuranga", 
+        vehicleType: "Car",
+        availability: "Available",
+        phone: "0784567890",
+    },
+    {
+        id: 5,
+        name: "Gihan Thilakarathna",
+        vehicleType: "Bike",
+        availability: "Available",
+        phone: "0715678901",
+    },
+    {
+        id: 6,
+        name: "Pramuditha Weerasinghe",
+        vehicleType: "Van",
+        availability: "Unavailable",
+        phone: "0766789012",
+    },
+    {
+        id: 7,
+        name: "Savidya Perera",
+        vehicleType: "Car",
+        availability: "Unavailable",
+        phone: "0747890123",
+    },
+    {
+        id: 8,
+        name: "Ushan Kavindu",
+        vehicleType: "Bike",
+        availability: "Available",
+        phone: "0778615234",
+    },
+    {
+        id: 9,
+        name: "Maleesha Peris",
+        vehicleType: "Van",
+        availability: "Unavailable",
+        phone: "0729678345",
+    },
+    {
+        id: 10,
+        name: "Irusha Chamalka",
+        vehicleType: "Car",
+        availability: "Available",
+        phone: "0751849332",
+    },
+];
