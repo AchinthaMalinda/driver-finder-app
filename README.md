@@ -3,7 +3,7 @@
 
 # Run the Project
 > Install Requirements
-  > Node.js
+>  > Node.js
   > Expo CLI
      >> npm install -g expo-cli
   > Expo Go app(Android/iOS)
